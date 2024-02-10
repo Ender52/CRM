@@ -1,6 +1,6 @@
 # Aktuálně
 
-[Finální dokumentace]()
+[Finální dokumentace](https://github.com/Ender52/CRM/blob/main/Fin%C3%A1ln%C3%AD%20dokumentace.pdf)
 
 Prototyp CRM: 
 
